@@ -1,6 +1,6 @@
 import { ethers } from "./ethers.js";
 
-const provider = new ethers.providers.JsonRpcProvider("https://eth-goerli.alchemyapi.io/v2/qHyncujF5ym0uH4SM1iFYST7Lrh_IW5v");
+const provider = new ethers.providers.JsonRpcProvider("https://eth-goerli.alchemyapi.io/v2/yourapi"); //add your api
 
 let address;
 let privateKey;
