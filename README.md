@@ -1,4 +1,4 @@
-# simple_cryptocurrency_wallet
+# simple cryptocurrency wallet
 Simple wallet with options to generate new private key, import old wallet and see ETH balance
 
 Demo
